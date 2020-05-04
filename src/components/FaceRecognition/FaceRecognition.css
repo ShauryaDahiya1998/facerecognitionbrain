@@ -1,0 +1,11 @@
+.bounding-box{
+box-shadow: 0 0 0 3px #149df2 inset;
+box-sizing:border-box;
+cursor:pointer;
+display:flex;
+flex-wrap:wrap;
+font-family:sofia-pro, sans-serif;
+justify-content:center;
+position:absolute;
+-webkit-font-smoothing:antialiased;
+}
